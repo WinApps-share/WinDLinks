@@ -1,6 +1,8 @@
 name: Update Win11_arm64
 
 on:
+  schedule:
+    - cron: '3 2 * * *'
   workflow_dispatch:
 
 jobs:

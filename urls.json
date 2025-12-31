@@ -1,6 +1,6 @@
 {
   "win11_x64": null,
-  "win11_arm64": null,
+  "win11_arm64": "https://software.download.prss.microsoft.com/dbazure/Win11_24H2_Chinese_Simplified_Arm64.iso?t=5db9e438-7b9a-4393-a32c-0d0dbc7f5b41&P1=1767237883&P2=601&P3=2&P4=a3hZt5XFW%2bQEpVnjxPg7krmB05VbNOJCsSLwJNJYuDzzfyo%2fTg5YwGOAJIQoUUH1qs8tQHNKMIK3aH8iDt64WNvEx%2b51tds44IacJtMhDE3dlAwg6iV1ilE6499YxJOmsu0%2f9R5%2bPgYy%2b5%2bOS0iPM4tjxXEWlADcXNgkGDBWe21MytWnQuE7wqxG4OLd6cUP8F5rJw20rsJ4AIT77WlfOdVkBuuaStZObmbgOWc%2bUXZQOviadok1skWRuJkIXPv%2b8LP0o7CoBMAaxNbWeMdcO5Z5AxVpwb0mnyefrSygUN2XhtxNtaa%2btVTIvZTlXuEOGaoPAuGgmUYWbDW5H3THtA%3d%3d",
   "win10_x64": "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_Chinese_Simplified_x64v1.iso?t=3bd74774-db56-475a-a19d-e8b2e2992a0e&P1=1767191130&P2=601&P3=2&P4=QZb6q273cDgqp%2blUWKPa4cBXgC3J3wA9sMqypuBW1shcLwWSdlBkUw0DDV3nmcJpCZkBsrJL0bUhqCKDQwHnDmAreaqSRXg%2fcQJX2QYOaR2HyWMUks4a0Hv3dPvYnm5e4EfxzoZcE5upVcBEDTjTr2n6qu%2bYdDYkaVfMKUT3MtCCdK8%2fP3ng29DrUfx8agJYbPbvWo3Z49w8Hcut5v1%2f2df3ZIYGU8Fw4pgfR7ZmzlfHznVjuBApBTzqdwjTeO%2f1PKhIDAStW6gOO7olatt07PeS1J6Jq097myXLQBdHa%2fEnjnR81s303greifNzGCKsjyiXgb32NkzzJL2OGrFhvQ%3d%3d",
   "win10_x86": null
 }
